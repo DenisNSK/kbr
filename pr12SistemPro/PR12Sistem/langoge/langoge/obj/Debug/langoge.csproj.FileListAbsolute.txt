@@ -1,0 +1,30 @@
+C:\Users\1\source\repos\langoge\langoge\bin\Debug\langoge.exe.config
+C:\Users\1\source\repos\langoge\langoge\bin\Debug\langoge.exe
+C:\Users\1\source\repos\langoge\langoge\bin\Debug\langoge.pdb
+C:\Users\1\source\repos\langoge\langoge\obj\Debug\langoge.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\langoge\langoge\obj\Debug\langoge.Form1.resources
+C:\Users\1\source\repos\langoge\langoge\obj\Debug\langoge.Properties.Resources.resources
+C:\Users\1\source\repos\langoge\langoge\obj\Debug\langoge.csproj.GenerateResource.cache
+C:\Users\1\source\repos\langoge\langoge\obj\Debug\langoge.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\langoge\langoge\obj\Debug\langoge.exe
+C:\Users\1\source\repos\langoge\langoge\obj\Debug\langoge.pdb
+C:\Users\Lenovo\Desktop\PR12Sistem\langoge\langoge\bin\Debug\langoge.exe.config
+C:\Users\Lenovo\Desktop\PR12Sistem\langoge\langoge\bin\Debug\langoge.exe
+C:\Users\Lenovo\Desktop\PR12Sistem\langoge\langoge\bin\Debug\langoge.pdb
+C:\Users\Lenovo\Desktop\PR12Sistem\langoge\langoge\obj\Debug\langoge.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\PR12Sistem\langoge\langoge\obj\Debug\langoge.Form1.resources
+C:\Users\Lenovo\Desktop\PR12Sistem\langoge\langoge\obj\Debug\langoge.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\PR12Sistem\langoge\langoge\obj\Debug\langoge.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\PR12Sistem\langoge\langoge\obj\Debug\langoge.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\PR12Sistem\langoge\langoge\obj\Debug\langoge.exe
+C:\Users\Lenovo\Desktop\PR12Sistem\langoge\langoge\obj\Debug\langoge.pdb
+C:\Users\Lenovo\Desktop\Практические 3 курс 2 полугодие\Системное программирование\pr12SistemPro\PR12Sistem\langoge\langoge\bin\Debug\langoge.exe.config
+C:\Users\Lenovo\Desktop\Практические 3 курс 2 полугодие\Системное программирование\pr12SistemPro\PR12Sistem\langoge\langoge\bin\Debug\langoge.exe
+C:\Users\Lenovo\Desktop\Практические 3 курс 2 полугодие\Системное программирование\pr12SistemPro\PR12Sistem\langoge\langoge\bin\Debug\langoge.pdb
+C:\Users\Lenovo\Desktop\Практические 3 курс 2 полугодие\Системное программирование\pr12SistemPro\PR12Sistem\langoge\langoge\obj\Debug\langoge.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Практические 3 курс 2 полугодие\Системное программирование\pr12SistemPro\PR12Sistem\langoge\langoge\obj\Debug\langoge.Form1.resources
+C:\Users\Lenovo\Desktop\Практические 3 курс 2 полугодие\Системное программирование\pr12SistemPro\PR12Sistem\langoge\langoge\obj\Debug\langoge.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Практические 3 курс 2 полугодие\Системное программирование\pr12SistemPro\PR12Sistem\langoge\langoge\obj\Debug\langoge.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Практические 3 курс 2 полугодие\Системное программирование\pr12SistemPro\PR12Sistem\langoge\langoge\obj\Debug\langoge.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Практические 3 курс 2 полугодие\Системное программирование\pr12SistemPro\PR12Sistem\langoge\langoge\obj\Debug\langoge.exe
+C:\Users\Lenovo\Desktop\Практические 3 курс 2 полугодие\Системное программирование\pr12SistemPro\PR12Sistem\langoge\langoge\obj\Debug\langoge.pdb
